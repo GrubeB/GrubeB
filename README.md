@@ -5,7 +5,7 @@ I am a backend software engineer - ? Working on multiple frontend and backend pr
 
 ## Connect with me
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/dawidbladek0831/)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](http://discordapp.com/users/474255188224639008)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/discord-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white" />](http://discordapp.com/users/474255188224639008)
 
 <br>
 <br>
