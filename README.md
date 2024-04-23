@@ -1,6 +1,6 @@
 ### Hello World
 I am a backend software engineer. 
-- 🔭 I’m currently working on [project](https://github.com/GrubeB/property-management-system/tree/develop/service/property/property-service) to manage hotels.
+- 🔭 I’m currently working on two projects to learning: [backend](https://github.com/GrubeB/f13-learning), [frontend](https://github.com/GrubeB/f13-learning-front).
 - 🌱 I’m currently learning EIP, DDD and microservices.
 
 <br>
